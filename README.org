@@ -1,10 +1,10 @@
-# OIM 390STA: ETL Example
+* OIM 390STA: ETL Example
 
 Contains the following:
 - =analyze_lfg_logs.ipynb=: Jupyter notebook for analyzing LFG logs
 - =logs.txt=: Text file containing LFG logs
 - =lfg_data.csv=: Expected Output
 
-## Practice Task
+** Practice Task
 
 Write a ETL script that extracts the LFG logs from the text file, transforms the data into a structured format, and loads it into a CSV file. My process of doing this is detailed in the included Jupyter notebook and my output in the lfg_data.csv file.
